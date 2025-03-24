@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qj+7oUFvW3A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chris\\OneDrive\\Desktop\\School\\OSU Stuff\\Spring 2025\\ITD2343 - OOP Using C#\\Assignments\\Hands-on & Labs\\Week 4\\Exam Lab\\Teletyper\\TeletypeGUI\\TeletypeGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.11\\microsoft.net.illink.tasks.8.0.11.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.11\\microsoft.netcore.app.runtime.win-x64.8.0.11.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.11\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.11.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.11\\microsoft.aspnetcore.app.runtime.win-x64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
